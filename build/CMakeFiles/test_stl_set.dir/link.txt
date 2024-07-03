@@ -1,0 +1,1 @@
+/usr/bin/clang++-14 -g -rdynamic CMakeFiles/test_stl_set.dir/set_map.cpp.o -o test_stl_set 

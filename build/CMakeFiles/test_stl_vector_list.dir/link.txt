@@ -1,0 +1,1 @@
+/usr/bin/clang++-14 -g -rdynamic CMakeFiles/test_stl_vector_list.dir/src/vector_list.cpp.o -o test_stl_vector_list 

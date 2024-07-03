@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_stl_vector_list.dir/src/vector_list.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/vector_list.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/vector_list.cpp"
+},
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_stl_map_unordered_map_time.dir/src/map_unordered_map_time.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/map_unordered_map_time.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/map_unordered_map_time.cpp"
+},
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_stl_set_map.dir/src/set_map.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/set_map.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/set_map.cpp"
+},
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_stl_set_multiset.dir/src/set_multiset.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/set_multiset.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/set_multiset.cpp"
+},
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_stl_map_unordered_map.dir/src/map_unordered_map.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/map_unordered_map.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/map_unordered_map.cpp"
+},
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_stl_map_multimap.dir/src/map_multimap.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/map_multimap.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/map_multimap.cpp"
+},
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_stl_iterators.dir/src/iterators.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/iterators.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/iterators.cpp"
+},
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_stl_algorithm.dir/src/algorithm.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/algorithm.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/algorithm.cpp"
+},
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_stl_adapters.dir/src/adapters.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/adapters.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/adapters.cpp"
+},
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_stl_use_adapters.dir/src/use_adapters.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/use_adapters.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/use_adapters.cpp"
+},
+{
+  "directory": "/home/hys/MyLab/C++_Lab/C++_STL_Test/build",
+  "command": "/usr/bin/clang++-14   -g -o CMakeFiles/test_load_save.dir/src/load_save.cpp.o -c /home/hys/MyLab/C++_Lab/C++_STL_Test/src/load_save.cpp",
+  "file": "/home/hys/MyLab/C++_Lab/C++_STL_Test/src/load_save.cpp"
+}
+]
