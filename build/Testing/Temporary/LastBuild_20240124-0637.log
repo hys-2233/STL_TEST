@@ -1,3 +1,0 @@
-gmake[4]: warning: jobserver unavailable: using -j1.  Add '+' to parent make rule.
-Consolidate compiler generated dependencies of target test_stl
-[100%] Built target test_stl

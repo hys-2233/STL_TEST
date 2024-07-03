@@ -1,1 +1,0 @@
-/usr/bin/clang++-14 -g -rdynamic CMakeFiles/test_stl_set_multiset.dir/src/set_multiset.cpp.o -o test_stl_set_multiset 

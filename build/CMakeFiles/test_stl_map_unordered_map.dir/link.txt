@@ -1,1 +1,0 @@
-/usr/bin/clang++-14 -g -rdynamic CMakeFiles/test_stl_map_unordered_map.dir/src/map_unordered_map.cpp.o -o test_stl_map_unordered_map 
